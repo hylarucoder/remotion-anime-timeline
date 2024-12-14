@@ -3,8 +3,9 @@
 A demo of integrating `anime.js` v3 with Remotion for smoother animations.
 
 ## Overview
+While Remotion's built-in `animateUtils` provides animation capabilities, it can be verbose, unintuitive, and challenging to maintain. You often need to calculate values manually and pass props throughout your components.
 
-While Remotion's built-in `animateUtils` provides animation capabilities, it can be verbose and challenging to maintain. This project demonstrates using `anime.js` as an alternative solution.
+This project demonstrates using `anime.js` as an alternative solution, offering a more streamlined approach to animations in Remotion.
 
-A custom timeline wrapper API has been implemented to simplify animation logic, though please note that hot reload functionality is currently affected when using this wrapper.
+> Please note that hot reload functionality may be affected when using this wrapper.
 
