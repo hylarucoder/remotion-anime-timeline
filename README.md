@@ -14,4 +14,4 @@ This project demonstrates using `anime.js` as an alternative solution, offering 
 
 You can reduce 170 lines of animating logic in your code to only 70 lines, and it works!
 
-See [Clip](https://github.com/username/repo/blob/main/src/Clip.tsx) and [ClipOld](https://github.com/username/repo/blob/main/src/ClipOld.ts)
+See [Clip](./src/Clip.tsx) and [ClipOld](./src/ClipOld.tsx)
